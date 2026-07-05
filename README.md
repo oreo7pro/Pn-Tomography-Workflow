@@ -1,2 +1,17 @@
-# Pn-Tomography-Workflow
-A workflow for upper mantle Pn tomography.  This repository demonstrates the complete workflow used in my research, including:  Data preprocessing Raypath calculation Model inversion (overview only) Visualization using GMT Post-processing using Python  Core inversion source code is not included.  The inversion algorithm has been archived in Zenodo.
+## Project Overview
+
+This repository presents the workflow used in my research on upper mantle Pn tomography.
+
+The workflow includes
+
+- data preprocessing
+
+- ray tracing
+
+- inversion (overview only)
+
+- GMT visualization
+
+- Python post-processing
+
+The core inversion solver is implemented in C and is not included in this repository.
