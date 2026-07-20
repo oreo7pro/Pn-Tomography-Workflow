@@ -14,4 +14,3 @@ The workflow includes
 
 - Python post-processing
 
-The core inversion solver is implemented in C and is not included in this repository.

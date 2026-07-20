@@ -1,0 +1,11 @@
+# Core codes
+*.c
+*.h
+*.o
+*.out
+*.exe
+
+# full data files
+*.dat
+*.TXT
+/data/
