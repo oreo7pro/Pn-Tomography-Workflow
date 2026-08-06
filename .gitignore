@@ -1,5 +1,4 @@
 # Core codes
-*.c
 *.h
 *.o
 *.out
